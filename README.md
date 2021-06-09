@@ -8,10 +8,10 @@ Deliveroo clone made with React, NodeJS and Express. All rights reserved to Deli
 
 **Server** <br />
 Heroku : https://cl-deliveroo.herokuapp.com/ <br />
-Github : https://github.com/clairelct/REACT-deliveroo-backend
 
 **Online demo** <br />
 Client : https://deliveroo-replica.netlify.app/ <br />
+Github : https://github.com/clairelct/REACT-deliveroo-frontend <br />
 
 ## Running the project
 
